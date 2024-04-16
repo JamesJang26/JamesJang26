@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Dongsuk Jang!
 
-![Header](https://github.com/JamesJang26/JamesJang26/assets/89830875/1eb48e03-f692-4c96-919c-7fb7835170a4)
+![Header]<img width="1834" alt="Profile Banner" src="https://github.com/JamesJang26/JamesJang26/assets/89830875/20967b10-8e04-42d9-a522-774f044cef3e">
 
 📚 **Bioengineer & NLP Enthusiast | Aspiring Entrepreneur**
 
@@ -55,7 +55,16 @@ Welcome to my GitHub! I’m currently mastering Bioengineering at Seoul National
 #### 🤝 Let's Connect!
 I’m always open to collaborate on projects or talk about tech innovations. Feel free to reach out through any of the platforms linked above or directly here on GitHub.
 
+---
 
+<details>
+    <summary style="color: #004289; font-size: 16px; font-weight: bold;">References 🤝</summary>
+    <p>References that helped make my profile!.
+    https://leviarista.github.io/github-profile-header-generator/
+    https://www.figma.com/community/file/1206877665795271691
+    https://github.com/anuraghazra/github-readme-stats
+    </p>
+</details>
 
 
 
@@ -72,5 +81,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesjang26&layout=compact)
+
 -->
