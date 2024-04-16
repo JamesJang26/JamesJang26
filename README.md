@@ -2,6 +2,8 @@
 
 ![Header](https://github.com/JamesJang26/JamesJang26/assets/89830875/1eb48e03-f692-4c96-919c-7fb7835170a4)
 
+<iframe src="https://JamesJang26.github.io/3D_profile.html" width="600" height="400" frameborder="0"></iframe>
+
 📚 **Bioengineer & NLP Enthusiast | Aspiring Entrepreneur**
 
 🏫 **Interdisciplinary Program in Bioengineering, Seoul National University**
