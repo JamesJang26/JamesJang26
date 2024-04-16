@@ -1,5 +1,7 @@
 ### 👋 Hi, I'm Dongsuk Jang!
 
+![Header](https://github.com/JamesJang26/JamesJang26/assets/89830875/1eb48e03-f692-4c96-919c-7fb7835170a4)
+
 📚 **Bioengineer & NLP Enthusiast | Aspiring Entrepreneur**
 
 🏫 **Interdisciplinary Program in Bioengineering, Seoul National University**
@@ -10,7 +12,6 @@
 ---
 
 [![JamesJang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesjang26)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesjang26&layout=compact)
 
 ---
 
@@ -71,4 +72,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesjang26&layout=compact)
 -->
