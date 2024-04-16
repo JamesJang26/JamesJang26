@@ -24,6 +24,7 @@ Welcome to my GitHub! I’m currently mastering Bioengineering at Seoul National
 
 #### 📈 Projects & Research
 - **Automated Information Extraction from Thyroid Operation Narratives**: A comparative study involving GPT-4 and KoELECTRA, demonstrating my focus on advancing medical informatics.
+- **Table to Text generation**: Currently working with this task!
 
 ---
 
@@ -35,7 +36,7 @@ Welcome to my GitHub! I’m currently mastering Bioengineering at Seoul National
 
 #### 🛠 Skills
 - **Languages**: Python, R, MATLAB
-- **Frameworks**: Experience in data analysis and AI applications
+- **Frameworks**: Experience in data analysis and AI applications; PyTorch
 - **Languages**: Fluent in Korean; Advanced in English.
 
 ---
