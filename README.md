@@ -61,12 +61,14 @@ I’m always open to collaborate on projects or talk about tech innovations. Fee
 
 <details>
     <summary style="color: #004289; font-size: 16px; font-weight: bold;">References 🤝</summary>
-    <p>References that helped make my profile!
-    - https://leviarista.github.io/github-profile-header-generator/
-    - https://www.figma.com/community/file/1206877665795271691
-    - https://github.com/anuraghazra/github-readme-stats
-    </p>
+    <p>References that helped make my profile!</p>
+    <ul>
+        <li><a href="https://leviarista.github.io/github-profile-header-generator/">Profile Header Generator</a></li>
+        <li><a href="https://www.figma.com/community/file/1206877665795271691">Figma Template</a></li>
+        <li><a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a></li>
+    </ul>
 </details>
+
 
 
 
