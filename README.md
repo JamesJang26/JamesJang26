@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Dongsuk Jang!
 
 <p align=”center”>
-<img width="1000" height="500" alt="Profile Banner" src="https://github.com/JamesJang26/JamesJang26/assets/89830875/20967b10-8e04-42d9-a522-774f044cef3e">
+<img width="1834" alt="Readme_Profile" src="https://github.com/JamesJang26/JamesJang26/assets/89830875/7f2186f9-a5cb-4e9e-9a6e-f0ba07538655">
 </p>
 
 📚 **Bioengineer & NLP Enthusiast | Aspiring Entrepreneur**
