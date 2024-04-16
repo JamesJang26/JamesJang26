@@ -7,6 +7,10 @@
 🔗 [LinkedIn](www.linkedin.com/in/jamesjang26) | 📧 [Email](mailto:jamesjang26@snu.ac.kr)
 📄 [CV](https://github.com/JamesJang26/JamesJang26/files/14986004/DongsukJang_CV.pdf) | 📄 [Research Paper](https://github.com/JamesJang26/JamesJang26/files/14986012/Manuscript_final_240117.pdf)
 
+---
+
+[![JamesJang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesjang26)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesjang26&layout=compact)
 
 ---
 
