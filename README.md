@@ -9,7 +9,7 @@
 🏫 **Interdisciplinary Program in Bioengineering, Seoul National University**
 
 🔗 [LinkedIn](https://www.linkedin.com/in/jamesjang26) | 📧 [Email](mailto:jamesjang26@snu.ac.kr)
-📄 [CV](https://github.com/JamesJang26/CV/blob/main/DongsukJang-CV.pdf) | 📄 [Research Paper](https://github.com/JamesJang26/JamesJang26/files/14986012/Manuscript_final_240117.pdf)
+📄 [CV](https://github.com/JamesJang26/CV/blob/main/Dongsuk-CV.pdf) | 📄 [Research Paper](https://github.com/JamesJang26/JamesJang26/files/14986012/Manuscript_final_240117.pdf)
 
 ---
 
